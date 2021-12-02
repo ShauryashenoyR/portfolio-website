@@ -1,0 +1,28 @@
+#app{
+    background-color: aquamarine;
+}
+
+.line{
+    height: 6px;
+    background-color: cornflowerblue;
+    margin: 8px auto;
+
+}
+
+#game{
+    height: 6px;
+    background-color: crimson;
+    margin: 8px auto;
+
+}
+
+h1{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400px;
+    
+}
+
+body{
+    text-align: center;
+}
